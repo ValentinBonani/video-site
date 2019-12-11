@@ -1,0 +1,23 @@
+{
+  "name": "video-site",
+  "version": "1.0.0",
+  "description": "React Front-End application to learn and apply all front related learnings",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "video-site"
+  },
+  "keywords": [
+    "react",
+    "video",
+    "responsive",
+    "front-end",
+    "mockup",
+    "modern"
+  ],
+  "author": "Valentin Bonani",
+  "license": "ISC"
+}
